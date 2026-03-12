@@ -1,3 +1,5 @@
+setuptools
+wheel
 flask
 flask-cors
 yfinance
@@ -6,5 +8,3 @@ pandas
 requests
 scipy
 gunicorn
-setuptools
-wheel
